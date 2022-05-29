@@ -1,0 +1,128 @@
+[
+    {
+        "id": "001",
+        "name": "家用电器",
+        "keywords": [
+            "节能补贴",
+            "4k电视",
+            "空气净化器",
+            "IH电饭煲",
+            "滚筒洗衣机",
+            "电热水器"
+        ],
+        "imgUrl": "./images/home/floor-1-1.png",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门"
+            },
+            {
+                "url": "#",
+                "text":"生活电器"
+            },
+            {
+                "url": "#",
+                "text": "厨房电器"
+            },
+            {
+                "url": "#",
+                "text":"应季电器"
+            },
+            {
+                "url": "#",
+                "text": "空气/热水"
+            },
+            {
+                "url": "#",
+                "text":"商用电器"
+            }
+        ],
+        "carouselList":[
+            {
+                "id":"0011",
+                "imgUrl":"./images/home/floor-1-b01.png"
+            },
+            {
+                "id":"0012",
+                "imgUrl":"./images/home/floor-1-b02.png"
+            },
+            {
+                "id":"0013",
+                "imgUrl":"./images/home/floor-1-b03.png"
+            }
+        ],
+        "recommendListLeft":[
+            "./images/home/floor-1-2.png",
+            "./images/home/floor-1-3.png"
+        ],
+        "recommendListRight":[
+            "./images/home/floor-1-5.png",
+            "./images/home/floor-1-6.png"
+        ],
+        "bigImg":"./images/home/floor-1-4.png"
+
+    },
+    {
+        "id": "002",
+        "name": "无用电器",
+        "keywords": [
+            "不太好",
+            "3232",
+            "节课容积式",
+            "艾玛电饭煲",
+            "厨房答题器",
+            "软水器"
+        ],
+        "imgUrl": "./images/home/floor-1-1.png",
+        "navList": [
+            {
+                "url": "#",
+                "text": "冷门"
+            },
+            {
+                "url": "#",
+                "text":"生活电器"
+            },
+            {
+                "url": "#",
+                "text": "厨房电器"
+            },
+            {
+                "url": "#",
+                "text":"应季电器"
+            },
+            {
+                "url": "#",
+                "text": "空气/热水"
+            },
+            {
+                "url": "#",
+                "text":"商用电器"
+            }
+        ],
+        "carouselList":[
+            {
+                "id":"0011",
+                "imgUrl":"./images/home/floor-1-b01.png"
+            },
+            {
+                "id":"0012",
+                "imgUrl":"./images/home/floor-1-b02.png"
+            },
+            {
+                "id":"0013",
+                "imgUrl":"./images/home/floor-1-b03.png"
+            }
+        ],
+        "recommendListLeft":[
+            "./images/home/floor-1-2.png",
+            "./images/home/floor-1-3.png"
+        ],
+        "recommendListRight":[
+            "./images/home/floor-1-5.png",
+            "./images/home/floor-1-6.png"
+        ],
+        "bigImg":"./images/home/floor-1-4.png"
+
+    }
+]
